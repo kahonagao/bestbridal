@@ -22,7 +22,8 @@
   <?php include($_SERVER['DOCUMENT_ROOT'].'/dest/include/tag.php'); ?>
   <?php include($_SERVER['DOCUMENT_ROOT'].'/dest/include/header.php'); ?>
 <!--wrap--->
-<main><p>あああああ</p></main>
+<main><p>あああああ</p>
+<h1>Gitは難しい</h1></main>
 <?php
 echo 'Hello world!!';?>
 <!--wrap--->
