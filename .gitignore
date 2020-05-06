@@ -1,0 +1,6 @@
+#_dest以下を除外
+_dest/
+#_src以下を除外
+_src/
+#/_gulpfile.jsを除外
+/_gulpfile.js
