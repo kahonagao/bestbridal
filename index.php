@@ -26,6 +26,7 @@
         <p>あああああ</p>
         <h1>Gitは難しい</h1>
         <h2>git status</h2>
+        <p>git diff</p>
     </main>
     <?php
 echo 'Hello world!!';?>
