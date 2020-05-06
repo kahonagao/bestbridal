@@ -22,7 +22,7 @@
   <?php include($_SERVER['DOCUMENT_ROOT'].'/dest/include/tag.php'); ?>
   <?php include($_SERVER['DOCUMENT_ROOT'].'/dest/include/header.php'); ?>
 <!--wrap--->
-<main></main>
+<main><p>あああああ</p></main>
 <?php
 echo 'Hello world!!';?>
 <!--wrap--->
