@@ -21,14 +21,11 @@
 <body>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/dest/include/tag.php'); ?>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/dest/include/header.php'); ?>
-    <!--wrap--->
+    <!--ここからメインコンテンツ--->
     <main>
 
     </main>
-    <?php
-echo 'Hello world!!';?>
-
-    <!--wrap--->
+    <!--ここまでメインコンテンツ--->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/dest/include/footer.php'); ?>
 
 </body>
